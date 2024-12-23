@@ -1,0 +1,1 @@
+# Pycharm-qr-code
